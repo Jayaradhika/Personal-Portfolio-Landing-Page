@@ -1,6 +1,6 @@
 Personal Portfolio Landing Page
 
-A responsive one-page portfolio website for P. Jaya Radhika, a Computer Science Engineering student.
+A responsive one-page portfolio website for myself, as a  Computer Science Engineering student.
 
 
 Sections
