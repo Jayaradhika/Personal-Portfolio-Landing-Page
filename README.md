@@ -27,4 +27,4 @@ Run Locally
 
 Open index.html in a browser, or use the VS Code Live Server extension.
 
-live site link: file:///C:/Users/HP/Downloads/P.%20Jaya%20Radhika%20-%20Computer%20Science%20Student.html
+site link: file:///C:/Users/HP/Downloads/P.%20Jaya%20Radhika%20-%20Computer%20Science%20Student.html
